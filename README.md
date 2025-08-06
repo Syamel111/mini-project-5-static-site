@@ -16,18 +16,6 @@ This project deploys a **secure, production-ready static website** using **AWS S
 | 🔔 **CloudWatch Alarms + SNS**   | Sends email alerts if 404 spike exceeds threshold                          |
 | 🛠️ **Terraform**                | Fully modularized Infrastructure as Code                                   |
 
----
-
-## 📸 Demo
-
-Try it out live:
-
-```bash
-curl -I https://<your-distribution-domain>/index.html
-curl -I https://<your-distribution-domain>/404.html  # Triggers log + alert
-````
-
-> ✅ Replace `<your-distribution-domain>` with the CloudFront Domain Name from Terraform output.
 
 ---
 
