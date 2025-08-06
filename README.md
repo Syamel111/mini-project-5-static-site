@@ -3,8 +3,6 @@
 
 This project deploys a **secure, production-ready static website** using **AWS S3 + CloudFront**, with full **monitoring, alerting**, and **Terraform IaC**.
 
-![Architecture Diagram](https://user-images.githubusercontent.com/your-image-link.png) <!-- Optional: add your own diagram -->
-
 ---
 
 ## 🚀 What This Project Does
