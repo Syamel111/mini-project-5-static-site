@@ -64,7 +64,7 @@ terraform apply -auto-approve
 1. Access a non-existent page to simulate a 404:
 
    ```bash
-   curl https://<cloudfront-url>/nonexistent-page.html
+   curl https://d2vxjgnz6fogup.cloudfront.net/nonexistent-page.html
    ```
 
 2. This triggers the 404 metric in CloudWatch.
@@ -108,7 +108,4 @@ Cloud DevOps Learner – [Follow my journey](https://github.com/Syamel111)
 
 MIT License
 
-```
-
-Let me know if you want this saved or if you want a version with images and badges.
 ```
