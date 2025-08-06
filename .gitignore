@@ -1,0 +1,10 @@
+# .gitignore
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.zip
+*.log
+*.pem
+*.tfvars
+*.DS_Store
+
