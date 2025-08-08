@@ -1,4 +1,3 @@
-````md
 # 🌐 Static Website with CloudFront CDN, Monitoring & Alerts
 
 This project deploys a **secure, production-ready static website** using **AWS S3 + CloudFront**, with full **monitoring, alerting**, and **Terraform IaC**.
