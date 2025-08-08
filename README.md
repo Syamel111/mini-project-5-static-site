@@ -106,5 +106,3 @@ Cloud DevOps Learner – [Follow my journey](https://github.com/Syamel111)
 ## 📜 License
 
 MIT License
-
-```
